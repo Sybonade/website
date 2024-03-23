@@ -26,3 +26,13 @@
   padding-left: 0px !important;
   padding-right: 0px !important;
 }
+
+.main-section {
+  color: whitesmoke;
+  background-color: #3a7ca5;
+  padding-bottom: 50px;
+}
+
+.main-section-header {
+  margin-bottom: 80px;
+}
